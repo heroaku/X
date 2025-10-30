@@ -1,8 +1,8 @@
 {
 ## spider
 	//"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
-   //"spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/Jar/7080.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
-	"spider":"https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a",
+   "spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/Jar/7080.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
+	//"spider":"https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a",
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
