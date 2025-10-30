@@ -26,9 +26,6 @@
 
  "sites":[
 ##PY源系列
-{"key": "TV","name": "🛷┃「直播」┃TV","type": 1,"api": "http://alantang.serv00.net/zgst.php","style": {"type": "rect","ratio": 1.33},"changeable": 1},	
-{"key": "UVod","name": "🎦┃优视频┃影视","type": 3,"api": "./py/UVod.py","style": {"type": "rect","ratio": 1.33},"changeable": 1},	
-{"key": "js_en_gf","name": "🥭┃官方采集┃芒果","type": 3,"api": "./py/en_gf.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "努努","name": "🍆┃努努影院┃TV","type": 3,"api": "./py/努努影院.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key": "界影视","name": "📚┃界影视┃TV","type": 3,"api": "./py/界影视.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key": "apple","name": "☎️┃小苹果┃PY","type": 3,"api": "./py/apple.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
